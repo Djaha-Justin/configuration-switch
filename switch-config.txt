@@ -1,0 +1,4 @@
+#ena
+#hostname Vlan 10
+#conf ter
+#inter f0/0
